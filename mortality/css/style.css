@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700');
+
+
+*,*:before,*:after{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    -webskit-box-sizing: border-box;
+}
+
+body{
+	background:black;
+	padding-top: 50px;
+	font-family: 'Playfair Display', serif;
+}
+
+main{
+	width: 1000px;
+	margin:auto;
+}
+
+#sketchArea{
+	margin: auto;
+	width:1000px;
+}
+
+h1{
+	color: white;
+	text-align: left;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+#menu{
+	text-align: left;
+	margin:auto;
+	margin-bottom: 20px;
+}
+
+h2{
+	color: white;
+	text-align: left;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+select{
+	background-color: black;
+	color: red;
+	font-family: 'Playfair Display', serif;
+	font-size: 1.5em;
+	text-align: left;
+	font-weight: bold;
+}
+
+p{
+	color: white;
+	font-family: 'Playfair Display', serif;
+	margin: 20px 0;
+	font-size: 1.2em;
+}
+
+footer{
+	background-color: white;
+	color: black;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: none;
+}
+
+h3{
+	width: 1000px;
+	margin: auto;
+	font-family: 'Playfair Display', serif;
+	font-weight: bold;
+}
+
+#linkArea{
+	width: 1000px;
+	margin: auto;
+	color: black;
+	font-family: 'Playfair Display', serif;
+}
